@@ -5,7 +5,4 @@ I'm Layth, a Software Engineer with a passion for building clean, scalable syste
 ##  Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laithsocials@gmail.com) 
 
----
-[![](https://visitcount.itsvg.in/api?id=Layyyth&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
